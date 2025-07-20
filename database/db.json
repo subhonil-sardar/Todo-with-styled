@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "title": "Pather Panchali",
+      "author": "Sukumar Ray",
+      "rating": 3.5,
+      "review": "This is a very famus book",
+      "id": "0ba3"
+    },
+    {
+      "id": "1f72",
+      "title": "Profeshor Shonku's Dairies",
+      "author": "Satyajit Ray",
+      "rating": 3.4,
+      "review": "This is a scince related book"
+    },
+    {
+      "id": "2c5f",
+      "title": "Maku",
+      "author": "Leela Majumdar",
+      "rating": 5.3,
+      "review": "This is a awesome book"
+    },
+    {
+      "id": "226e",
+      "title": "Gitanjali",
+      "author": "Rabindranath Tagore",
+      "rating": 6.7,
+      "review": "This nobel prize book"
+    }
+  ]
+}
